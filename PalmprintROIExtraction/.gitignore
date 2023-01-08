@@ -1,0 +1,7 @@
+models
+__pycache__
+*.log
+*.mp4
+ROI
+.idea
+test
